@@ -38,5 +38,4 @@ Scripts:
 ## 🚀 How to Run
 1. Clone this repo
 2. Open schema.sql and insert_data.sql in MySQL/PostgreSQL
-3. Execute queries in /queries/ for insights
-11. 
+3. Execute queries in /queries/ for insights 
